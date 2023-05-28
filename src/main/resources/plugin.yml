@@ -1,0 +1,6 @@
+name: AntiCreeperGrief
+version: '${project.version}'
+main: net.daechler.anticreepergrief.AntiCreeperGrief
+api-version: 1.19
+authors: [Daechler]
+description: Prevent creepers from destroying blocks.
